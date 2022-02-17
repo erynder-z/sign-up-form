@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
+
+.container1 {
+  background-image: url(./assets/background.jpg);
+  background-size: cover;
+  height: 100vh;
+  width: 35vw;
+  padding-top: 20vh;
+}
+
+.logo-container {
+  height: 15vh;
+}
+
+.logo {
+  height: 5rem;
+}
+
+.eryngi {
+  font-family: 'Mukta', sans-serif;
+  font-size: 3rem;
+}
+
+.container2 {
+  background-color: whitesmoke;
+  height: 100vh;
+  width: 65vw;
+}
+
+.card-body {
+  width: 85%;
+}
+
+.heading {
+  height: 40vh;
+  padding: 15vh 18vw 0 3vw;
+}
+
+.focus {
+  border: solid steelblue 2px;
+  box-shadow: 1px 1px 5px gray;
+}
+
+.error {
+  border: solid crimson 2px;
+}
+
+.error-message {
+  color: crimson;
+}
+
+.account {
+  height: 40vh;
+}
+
+.signup {
+  background-color: aqua;
+}
