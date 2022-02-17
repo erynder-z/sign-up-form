@@ -53,6 +53,21 @@
   height: 40vh;
 }
 
-.signup {
-  background-color: aqua;
+@media all and (max-width: 576px) {
+  .container1 {
+    width: 100vw;
+    height: 15vh;
+    padding: 0;
+    background-image: none;
+    background-color: orangered;
+  }
+
+  .container2 {
+    width: 100vw;
+    height: 85vh;
+  }
+
+  .heading {
+    padding: 1rem;
+  }
 }
